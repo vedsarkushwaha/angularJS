@@ -1,0 +1,7 @@
+p#textMessage {
+  color: green;
+}
+
+p#NoDataTextMessage {
+  color: red;
+}
